@@ -1,4 +1,3 @@
-import "./style.css";
 import { CHECKOUT_URL, PRICE_TEXT, PRODUCT_NAME } from "./config";
 
 type Lead = {
