@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title>Notion template bundle preview</title>
+  <desc>Placeholder dashboard showing sections for goals, weekly focus, and IOU tracking.</desc>
+  <rect width="1200" height="800" fill="#f3efe8"/>
+  <rect x="80" y="80" width="1040" height="640" rx="24" fill="#ffffff" stroke="#d8d2c8" stroke-width="4"/>
+  <rect x="130" y="130" width="320" height="60" rx="14" fill="#1b7f5d" opacity="0.12"/>
+  <rect x="130" y="220" width="440" height="36" rx="10" fill="#e7f4ef"/>
+  <rect x="130" y="280" width="440" height="200" rx="16" fill="#fdf7f1" stroke="#d8d2c8"/>
+  <rect x="610" y="220" width="430" height="260" rx="16" fill="#fdf7f1" stroke="#d8d2c8"/>
+  <rect x="130" y="520" width="910" height="140" rx="16" fill="#fdf7f1" stroke="#d8d2c8"/>
+  <text x="150" y="165" font-family="Work Sans, sans-serif" font-size="26" fill="#132019">Bundle Dashboard</text>
+  <text x="150" y="255" font-family="Work Sans, sans-serif" font-size="20" fill="#4a5d55">Goal Breakdown</text>
+  <text x="630" y="255" font-family="Work Sans, sans-serif" font-size="20" fill="#4a5d55">Weekly Focus</text>
+  <text x="150" y="555" font-family="Work Sans, sans-serif" font-size="20" fill="#4a5d55">Split-It IOU Tracker</text>
+</svg>

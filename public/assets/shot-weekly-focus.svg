@@ -1,0 +1,11 @@
+<svg width="900" height="640" viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title>Weekly Focus and Pomodoro Tracker</title>
+  <desc>Placeholder showing weekly focus columns and timer logs.</desc>
+  <rect width="900" height="640" fill="#ffffff"/>
+  <rect x="40" y="40" width="820" height="560" rx="20" fill="#fdf7f1" stroke="#d8d2c8" stroke-width="3"/>
+  <rect x="90" y="90" width="300" height="44" rx="12" fill="#1b7f5d" opacity="0.18"/>
+  <rect x="90" y="170" width="240" height="360" rx="16" fill="#ffffff" stroke="#d8d2c8"/>
+  <rect x="350" y="170" width="240" height="360" rx="16" fill="#ffffff" stroke="#d8d2c8"/>
+  <rect x="610" y="170" width="200" height="360" rx="16" fill="#ffffff" stroke="#d8d2c8"/>
+  <text x="110" y="122" font-family="Work Sans, sans-serif" font-size="22" fill="#132019">Weekly Focus</text>
+</svg>
