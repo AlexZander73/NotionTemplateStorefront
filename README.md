@@ -41,6 +41,7 @@ To export:
 3. The workflow in `.github/workflows/deploy.yml` will build and deploy on every push to `main`.
 
 If your repo name changes, keep `base: "./"` in `vite.config.ts` for relative asset paths.
+The deploy workflow sets the Vite base path automatically to your repository name for GitHub Pages project URLs.
 
 ## Where to paste checkout link
 
