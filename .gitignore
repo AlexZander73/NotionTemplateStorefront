@@ -1,3 +1,7 @@
+# ProjectVault local-state protection (existing rules below take precedence)
+.codex/
+.npm/
+
 node_modules/
 dist/
 .DS_Store
